@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = goldfarb.loulou@gmail.com
+	name = Loulou Goldfarb
